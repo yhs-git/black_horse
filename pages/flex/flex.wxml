@@ -1,0 +1,16 @@
+<!--pages/flex/flex.wxml-->
+<!-- <text>pages/flex/flex.wxml</text> -->
+<view class="content">
+<view class="item"></view>
+<view class="item2"></view>
+<view class="item3"></view>
+</view>
+<view class="top">
+  <view class="top_left">
+    <image src="/static/yyqx.jpeg"></image>
+  </view>
+  <view class="top_right">
+    <image src="/static/yyqx.jpeg"></image>
+    <image src="/static/yyqx.jpeg"></image>
+  </view>
+</view>

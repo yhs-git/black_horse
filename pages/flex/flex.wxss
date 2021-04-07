@@ -1,0 +1,30 @@
+/* pages/flex/flex.wxss */
+.content{
+  display: flex;
+  justify-content: space-between;
+}
+.item{
+  width: 100rpx;
+  height: 100rpx;
+  background-color: aqua;
+}
+.item2{
+  width: 100rpx;
+  height: 100rpx;
+  background-color: green;
+}
+.item3{
+  width: 100rpx;
+  height: 100rpx;
+  background-color: blue;
+}
+.top{
+  display: flex;
+}
+.top_left image{
+  width: 350rpx;
+  height: 600rpx;
+}
+.top_right image{
+  width: 350rpx;
+}

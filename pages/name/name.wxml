@@ -1,0 +1,8 @@
+<!--pages/name/name.wxml-->
+<view class="container">
+<!-- <img src="" alt=""> -->
+<image class="photo" src="{{src}}"></image>
+<text class="word">{{name}}</text>
+<button class="btn" open-type="getUserinfo" 
+bindtap='getMyInfor'>点击获取头像昵称</button>
+</view>
